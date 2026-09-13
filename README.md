@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="logo.png" alt="soul.lol" width="120" height="120">
+
 # soul.lol
 
 **Build a biolink page that actually looks like you.**
