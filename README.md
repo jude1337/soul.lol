@@ -29,9 +29,3 @@ soul.lol is a biolink platform. Pick a username, get a page at `soul.lol/yournam
 - Help centre: [help.soul.lol](https://help.soul.lol)
 - Service status: [status.soul.lol](https://status.soul.lol)
 - Join the community: linked from [soul.lol](https://soul.lol)
-
-## About this repository
-
-This repository exists to give soul.lol a public presence on GitHub. The platform itself, its mobile app, and its Discord bot are closed source and developed in private repositories. There's no code here, just this README.
-
-If you're looking for the product, head to [soul.lol](https://soul.lol).
